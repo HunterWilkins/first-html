@@ -1,0 +1,26 @@
+body {
+    background: black;
+    color: white;
+}
+
+header {
+    padding: 15px;
+    font-family: cursive;
+}
+
+#hello {
+    color: pink;
+}
+
+.goodbye {
+    border: orange dotted 4px;
+}
+
+img[alt="Mo, the Guinea Pig"] {
+    width: 200px;
+}
+
+input[type="text"] {
+    padding: 50px;
+}
+
